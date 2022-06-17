@@ -1,4 +1,4 @@
-### Welcome to LaBiOmicS 👋
+### Welcome to LaBiOmicS Repository 👋
 
 <!--
 **LaBiOmicS/LaBiOmicS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
