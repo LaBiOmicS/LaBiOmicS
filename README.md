@@ -13,10 +13,14 @@ In addition, learn about other LaBiOmicS initiatives:
 - [BioDocker](https://github.com/BioDocker): Docker in Bioinformatics Initiative
 
 
-# About
+### About
 
 <div align="center">
   <a href="https://github.com/LaBiOmicS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaBiOmicS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaBiOmicS&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+### Contact
+  
+<a href = "mailto:labiomics@bioinformatica.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
