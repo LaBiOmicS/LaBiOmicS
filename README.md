@@ -11,3 +11,9 @@ In addition, learn about other LaBiOmicS initiatives:
 - [FishOmics](https://github.com/FishOmics): Omic Sciences for Ichthyology and Aquaculture
 - [FungOmics](https://github.com/FungOmics): Omic Sciences for Fungi and Mycology
 - [BioDocker](https://github.com/BioDocker): Docker in Bioinformatics Initiative
+
+<div align="center">
+  <a href="https://github.com/LaBiOmicS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaBiOmicS&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaBiOmicS&layout=compact&langs_count=7&theme=default"/>
+</div>
