@@ -2,7 +2,7 @@
   <img src="https://labiomics.github.io/images/openscience.jpg" />
 </p>
 
-### Welcome to LaBiOmicS Repository 🧬
+### Welcome to LaBiOmicS Repository
 
 This is the official repository of the Laboratory of Bioinformatics and Omic Sciences (LaBiOmicS).
 
