@@ -14,10 +14,6 @@ In addition, learn about other LaBiOmicS initiatives:
 
 ---
 
-![LaBiOmicS logo](https://labiomics.github.io/images/logo-lab.JPG)
-
----
-
 ### About
 
 <div align="center">
@@ -31,3 +27,9 @@ In addition, learn about other LaBiOmicS initiatives:
 ### Contact
   
 <a href = "https://github.com/LaBiOmicS/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> <a href = "mailto:labiomics@bioinformatica.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href = "XXXXXX"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a> <a href = "XXXXXXXXXX"><img src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black" target="_blank"></a> 
+
+---
+  
+![LaBiOmicS logo](https://labiomics.github.io/images/logo-lab.JPG)
+
+---
