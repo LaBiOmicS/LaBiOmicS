@@ -31,5 +31,3 @@ In addition, learn about other LaBiOmicS initiatives:
 ---
   
 ![LaBiOmicS logo](https://labiomics.github.io/images/logo-lab.JPG)
-
----
