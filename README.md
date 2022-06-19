@@ -15,7 +15,7 @@ In addition, learn about other LaBiOmicS initiatives:
 
 ---
 
-# About
+### About
 
 <div align="center">
   <a href="https://github.com/LaBiOmicS">
@@ -25,6 +25,6 @@ In addition, learn about other LaBiOmicS initiatives:
 
 ---
   
-# Contact
+### Contact
   
-<a href = "mailto:labiomics@bioinformatica.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:labiomics@bioinformatica.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
