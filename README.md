@@ -1,4 +1,6 @@
-<img src="https://labiomics.github.io/images/openscience.jpg" />
+<p align="right">
+  <img src="https://labiomics.github.io/images/openscience.jpg" />
+</p>
 
 ### Welcome to LaBiOmicS Repository 🧬
 
