@@ -13,7 +13,9 @@ In addition, learn about other LaBiOmicS initiatives:
 - 📦 [BioDocker](https://github.com/BioDocker): Docker in Bioinformatics Initiative
 
 
+[center]
 ![Open Science](https://labiomics.github.io/images/openscience.jpg)
+[/center]
 
 ---
 
