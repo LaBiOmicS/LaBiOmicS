@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://labiomics.github.io/images/openscience.jpg" />
+</p>
+
 ### Welcome to LaBiOmicS Repository 🧬
 
 This is the official repository of the Laboratory of Bioinformatics and Omic Sciences (LaBiOmicS).
@@ -11,11 +15,6 @@ In addition, learn about other LaBiOmicS initiatives:
 - 🐟 [FishOmics](https://github.com/FishOmics): Omic Sciences for Ichthyology and Aquaculture
 - 🍄 [FungOmics](https://github.com/FungOmics): Omic Sciences for Fungi and Mycology
 - 📦 [BioDocker](https://github.com/BioDocker): Docker in Bioinformatics Initiative
-
-
-<p align="center">
-  <img src="https://labiomics.github.io/images/openscience.jpg" />
-</p>
 
 ---
 
