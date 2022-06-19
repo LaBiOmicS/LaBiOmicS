@@ -12,6 +12,9 @@ In addition, learn about other LaBiOmicS initiatives:
 - 🍄 [FungOmics](https://github.com/FungOmics): Omic Sciences for Fungi and Mycology
 - 📦 [BioDocker](https://github.com/BioDocker): Docker in Bioinformatics Initiative
 
+---
+
+![LaBiOmicS logo](https://labiomics.github.io/images/logo-lab.JPG)
 
 ---
 
