@@ -6,7 +6,7 @@
 
 This is the official repository of the Laboratory of Bioinformatics and Omic Sciences (LaBiOmicS).
 
-This repository only stores the lab website and other online elements. For information about laboratory projects repositories, access the organization: [vLaBiOmicS](https://github.com/vLaBiOmicS).
+This repository only stores the lab website and others online elements. For information about laboratory projects repositories, access the organization: [vLaBiOmicS](https://github.com/vLaBiOmicS). For access to lab training materials, go to: [eLaBiOmicS](https://github.com/eLaBiOmicS)
 
 In addition, learn about other LaBiOmicS initiatives:
 
