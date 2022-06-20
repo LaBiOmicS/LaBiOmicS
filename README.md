@@ -14,6 +14,7 @@ In addition, learn about other LaBiOmicS initiatives:
 - 🍺 [BeerOmics](https://github.com/BeerOmics): Omic Sciences for Beers
 - 🐟 [FishOmics](https://github.com/FishOmics): Omic Sciences for Ichthyology and Aquaculture
 - 🍄 [FungOmics](https://github.com/FungOmics): Omic Sciences for Fungi and Mycology
+- 🍄 [ParaDB](https://github.com/ParacoccidioidesDB): an Paracoccidioides genomic database
 - 📦 [BioDocker](https://github.com/BioDocker): Docker in Bioinformatics Initiative
 
 ---
