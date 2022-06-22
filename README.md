@@ -22,7 +22,7 @@ In addition, learn about other LaBiOmicS initiatives:
 
 ### About
 
-<div align="center">
+<div align="justify">
   <a href="https://github.com/LaBiOmicS">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaBiOmicS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaBiOmicS&layout=compact&langs_count=7&theme=dracula"/>
 </div>
