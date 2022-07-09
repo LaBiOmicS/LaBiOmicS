@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://labiomics.github.io/images/openscience.png" width="100%" height="100%"/>
+  <img src="https://labiomics.github.io/images/openscience.png" width="50%" height="50%"/>
 </p>
 
 ### Welcome to LaBiOmicS Repository
