@@ -13,7 +13,7 @@
 
 ## 🧬 Sobre Nós: Inovação e Conhecimento em Biologia
 
-Bem-vindo ao **Laboratório de Bioinformática e Ciências Ômicas (LaBiOmicS)**, liderado pelo Dr. Menegidio. Somos um centro de pesquisa dedicado a desvendar as complexidades dos sistemas biológicos através de abordagens computacionais de ponta e ciências ômicas integradas. Nossa missão é transformar vastos volumes de dados em *insights* científicos inovadores, impulsionando o avanço em saúde humana, biotecnologia e ecologia. Promovemos ativamente a **Ciência Aberta** e a reprodutibilidade de resultados.
+Bem-vindo ao **Laboratório de Bioinformática e Ciências Ômicas (LaBiOmicS)**, liderado pelo Dr. Menegidio. Somos um centro de pesquisa de ponta dedicado a desvendar as complexidades dos sistemas biológicos através de abordagens computacionais avançadas e ciências ômicas integradas. Nossa missão é transformar vastos volumes de dados em *insights* científicos inovadores, impulsionando o avanço em **saúde humana e animal**, **biotecnologia aplicada**, e promovendo o **empreendedorismo científico**. Promovemos ativamente a **Ciência Aberta** e a reprodutibilidade de resultados.
 
 ---
 
@@ -25,40 +25,8 @@ Nossa pesquisa abrange um espectro amplo e dinâmico, com foco em:
 *   **Proteômica e Metabolômica:** Mapeando e interpretando redes moleculares e metabólicas.
 *   **Biologia Computacional e de Sistemas:** Desenvolvendo e aplicando algoritmos para modelar sistemas biológicos complexos.
 *   **Saúde Humana e Doenças Infecciosas:** Utilizando abordagens ômicas para a compreensão de mecanismos patológicos e desenvolvimento de novas terapias.
-*   **Biotecnologia e Ecologia Molecular:** Explorando o potencial biotecnológico e a diversidade biológica em diferentes ecossistemas.
+*   **Saúde Animal:** Aplicações ômicas para o bem-estar e saúde animal.
+*   **Biotecnologia e Inovação:** Explorando o potencial biotecnológico para aplicações em saúde e indústria, impulsionando avanços e novas soluções.
+*   **Ecologia Molecular:** Diversidade biológica e interações em diferentes ecossistemas.
 
 ---
-
-## 🚀 Nossas Iniciativas de Pesquisa e Ecossistemas
-
-Orgulhamo-nos de cultivar um ecossistema vibrante de projetos e colaborações:
-
-*   **Portal Principal:** [LaBiOmicS](https://github.com/LaBiOmicS) - Repositório central, site e infraestrutura.
-*   **Projetos de Pesquisa:** [vLaBiOmicS](https://github.com/vLaBiOmicS) - Repositórios de código, scripts e dados de projetos ativos.
-*   **Educação & Treinamento:** [eLaBiOmicS](https://github.com/eLaBiOmicS) - Materiais e tutoriais em bioinformática.
-
-### Iniciativas Especializadas:
-
-| Área de Foco | Iniciativa | Descrição |
-| :--- | :--- | :--- |
-| 🍄 **Fungos e Doenças Negligenciadas** | [**bNTFD Initiative**](https://github.com/bNTFD) | *Bioinformatics for Neglected Tropical Fungi Disease* - Foco em doenças fúngicas tropicais negligenciadas. |
-| 🍄 **Micologia e Genômica de Fungos** | [**FungOmics**](https://github.com/FungOmics) | Aplicação de Ciências Ômicas em larga escala para o estudo de Fungos. |
-| 🧬 **Genômica e Banco de Dados** | [**ParaDB**](https://github.com/ParacoccidioidesDB) | Um banco de dados genômico especializado e focado no gênero *Paracoccidioides*. |
-| 🦠 **Resistência Antimicrobiana** | [**Plasmidome & Resistome**](https://github.com/Plasmidome) | Estudos ômicos direcionados ao Plasmidoma e aos mecanismos de Resistência Antimicrobiana. |
-| 🐟 **Ictiologia e Aquicultura** | [**FishOmics**](https://github.com/FishOmics) | Ciências Ômicas aplicadas à Ictiologia, conservação e Aquicultura. |
-| 🍺 **Biotecnologia Cervejeira** | [**BeerOmics**](https://github.com/BeerOmics) | Explorando a ciência, leveduras e a biotecnologia por trás da cerveja. |
-| 📦 **Ferramentas de Bioinformática** | [**BioDocker**](https://github.com/BioDocker) | Nossa iniciativa para padronizar o uso de contêineres Docker em rotinas de Bioinformática. |
-
----
-
-## 📊 Estatísticas Open Source
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaBiOmicS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="LaBiOmicS GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaBiOmicS&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" />
-</div>
-
----
-<div align="center">
-  <i>"Desvendando a vida, um dado de cada vez."</i>
-</div>
