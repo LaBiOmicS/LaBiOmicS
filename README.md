@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://labiomics.bioinformatica.com.br/images/logo.png" alt="LaBiOmicS Logo" width="400px"/>
-
   # Laboratório de Bioinformática e Ciências Ômicas (LaBiOmicS)
   ### *Menegidio Lab*
 
