@@ -1,7 +1,7 @@
-<center>
+
   # Laboratório de Bioinformática e Ciências Ômicas (LaBiOmicS)
   ### *Menegidio Lab*
-</center>
+
   [![Website](https://img.shields.io/badge/Website-LaBiOmicS-success?style=for-the-badge)](https://labiomics.bioinformatica.com.br/)
   [![GitHub Organization](https://img.shields.io/badge/GitHub-LaBiOmicS-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaBiOmicS)
   [![Email](https://img.shields.io/badge/Email-labiomics%40bioinformatica.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:labiomics@bioinformatica.com.br)
